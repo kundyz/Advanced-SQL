@@ -1,2 +1,2 @@
 # Surfs Up!
-![logo](/surfs_up/images/logo.jpeg)
+![logo](/images/logo.jpeg)
