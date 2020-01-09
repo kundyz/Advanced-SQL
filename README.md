@@ -23,4 +23,6 @@ Task
 * Use FLASK to create your routes.
 
 Output
+
 ![logo](/images/Precipitation.png)
+![logo](/images/HighestObservations.png)
