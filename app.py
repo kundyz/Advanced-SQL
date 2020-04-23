@@ -4,7 +4,6 @@ from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session
 from sqlalchemy import create_engine, func
 from flask import Flask, jsonify
-from flask import Flask
 
 engine = create_engine("sqlite:///Resources/hawaii.sqlite?check_same_thread=False")
 Base = automap_base()
@@ -59,3 +58,4 @@ def start_end_date(start, end):
 
 if __name__ == '__main__':
     app.run(debug=False)
+    
