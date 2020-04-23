@@ -37,3 +37,5 @@ Output
 
 ![logo](/images/Precipitation.png)
 ![logo](/images/HighestObservations.png)
+![logo](/images/Temperature.png)
+![logo](/images/DailyNormals.png)
